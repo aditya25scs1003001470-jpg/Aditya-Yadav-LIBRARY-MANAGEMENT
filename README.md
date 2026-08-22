@@ -1,4 +1,4 @@
-# Aditya-Yadav-LIBRARY-MANAGEMENT
+# Aditya-Yadav-student management
 
 A console-based Student Management System developed in C++ to manage student records easily.
 
